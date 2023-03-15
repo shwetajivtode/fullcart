@@ -13,5 +13,5 @@ public class less {
 		 System.out.println("Hello man");
 >>>>>>> refs/remotes/origin1/master
 
-
+System.out.println("Hello maza");
 }
