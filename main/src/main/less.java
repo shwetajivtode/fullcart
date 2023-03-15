@@ -5,6 +5,9 @@ public class less {
 		 System.out.println("Hello meri");
 		 System.out.println("Hello teri");
 		 System.out.println("Hello tery");
+		 System.out.println("Hello mai");
+		 System.out.println("Hello hu");
+		 
 
 
 }
